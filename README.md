@@ -4,16 +4,16 @@
 - 🔭 I’m currently working on React/Vue & NodeJS (NestJS) apps.
 - 🌱 I’m currently learning React Native & Devops(Cybersecurity).
 <br>
-<b> SKILLS: </b> <br>
+<b> SKILLS: </b> <br><br>
   <b> Front </b> <br>
     React <br>
-    Vue <br> <br>
+    Vue <br>
     Jquery <br>
     HTML5 <br>
     CSS3 <br>
     PP: SASS <br>
-    Bootstrap, MaterialUI <br>
+    Bootstrap, MaterialUI <br><br>
     
-   Back <br>
+   <b>Back  </b><br>
     Express <br>
     NestJS <br>
