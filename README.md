@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on React/Vue & NodeJS (NestJS) apps.
 - 🌱 I’m currently learning React Native & Devops(Cybersecurity).
+/*
 <br>
 <b> SKILLS: </b> <br><br>
   <b> Front </b> <br>
@@ -17,3 +18,4 @@
    <b>Back  </b><br>
     Express <br>
     NestJS <br>
+*/
